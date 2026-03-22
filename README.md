@@ -1,4 +1,7 @@
 # 📊 Sales Dashboard Project (Sample Dataset)
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![Data Analysis](https://img.shields.io/badge/Skill-Data%20Analysis-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ## 📌 Overview
 This project focuses on analyzing and visualizing sales data using Excel/Google Sheets. The dataset contains information about orders, products, regions, and sales performance. The goal is to transform raw data into meaningful insights through a structured dashboard.
